@@ -101,3 +101,5 @@ if matches_played > 0:
     print(f"Best Match     : [{best_index+1}] {best_match['hero']}  (KDA: {best_match['kda']:.2f})")
 
 print("=============================================")
+
+# Match input loop added
